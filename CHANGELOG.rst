@@ -2,6 +2,18 @@
 Changelog for package delphi_srr_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.0.0 (2023-04-24)
+------------------
+
+3.3.0 (2021-06-18)
+------------------
+
+3.2.0 (2021-03-12)
+------------------
+* Bag migration rules cleanup (`#76 <https://github.com/astuff/astuff_sensor_msgs/issues/76>`_)
+  * delphi_srr_msgs: Cleanup and consolidate bag migration rules, add install directive to CMakeLists.txt
+* Contributors: icolwell-as
+
 3.1.0 (2020-06-17)
 ------------------
 
