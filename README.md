@@ -1,3 +1,34 @@
+## astuff_sensor_msgs (foxy) - 4.0.0-1
+
+The packages in the `astuff_sensor_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --override-release-repository-url https://github.com/ros2-gbp/astuff_sensor_msgs-release.git --rosdistro foxy astuff_sensor_msgs` on `Tue, 16 May 2023 20:32:29 -0000`
+
+These packages were released:
+- `delphi_esr_msgs`
+- `delphi_mrr_msgs`
+- `delphi_srr_msgs`
+- `derived_object_msgs`
+- `ibeo_msgs`
+- `kartech_linear_actuator_msgs`
+- `mobileye_560_660_msgs`
+- `neobotix_usboard_msgs`
+
+Version of package(s) in repository `astuff_sensor_msgs`:
+
+- upstream repository: https://github.com/astuff/astuff_sensor_msgs.git
+- release repository: https://github.com/astuff/astuff_sensor_msgs-release.git
+- rosdistro version: `3.1.0-1`
+- old version: `3.1.0-1`
+- new version: `4.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## astuff_sensor_msgs (rolling) - 4.0.0-2
 
 The packages in the `astuff_sensor_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --override-release-repository-url https://github.com/ros2-gbp/astuff_sensor_msgs-release.git --rosdistro rolling astuff_sensor_msgs` on `Tue, 16 May 2023 20:01:11 -0000`
