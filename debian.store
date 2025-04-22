@@ -1,1 +1,1 @@
-{"base": "42efdb8b", "parent": "debian/rolling/ibeo_msgs", "previous": "31ae2a84", "trim": "", "trimbase": ""}
+{"base": "c379d82beb1c", "parent": "debian/kilted/ibeo_msgs", "previous": "1395720c8b92", "trim": "", "trimbase": ""}
